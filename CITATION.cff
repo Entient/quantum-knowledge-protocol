@@ -6,7 +6,7 @@ date-released: 2025-07-31
 authors:
   - name: "ENTIENT"
     affiliation: "ENTIENT LLC"
-repository-code: "https://github.com/[username]/quantum-knowledge-protocol"
+repository-code: "https://github.com/Entient/quantum-knowledge-protocol"
 license: CC0-1.0
 keywords:
   - quantum knowledge
