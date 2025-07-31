@@ -16,12 +16,13 @@ The Quantum Knowledge Protocol (QKP) is a formal protocol for knowledge discover
 
 The QKP protocol consists of five fundamental operations:
 
-The QKP protocol consists of five fundamental operations:
+```
 INITIALIZE: Query → Superposition state |Ψ⟩
 CONSTRAIN:  Apply measurement basis M
-EVOLVE:     Amplitude amplification |Ψ⟩ → |Ψ'⟩
+EVOLVE:     Amplitude amplification |Ψ⟩ → |Ψ'⟩  
 COLLAPSE:   Measurement → |discovery⟩
 PROTECT:    Cryptographic verification of lineage
+```
 
 ## Implementation
 
