@@ -1,0 +1,24 @@
+# ENTIENT Implementation (Private)
+/entient-engine/
+/src/
+/lib/
+/tests/
+/config/
+
+# Strategic Documents (Private)
+/strategy/
+/maneuvers/
+/internal/
+
+# Development
+*.log
+*.tmp
+.env
+.DS_Store
+node_modules/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
