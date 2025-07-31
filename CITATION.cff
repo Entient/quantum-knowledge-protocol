@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use QKP in your research, please cite it as follows:"
+title: "Quantum Knowledge Protocol (QKP) v1.0"
+version: 1.0.0
+date-released: 2025-07-31
+authors:
+  - name: "ENTIENT"
+    affiliation: "ENTIENT LLC"
+repository-code: "https://github.com/[username]/quantum-knowledge-protocol"
+license: CC0-1.0
+keywords:
+  - quantum knowledge
+  - discovery systems
+  - epistemology
+  - recursive protocols
+preferred-citation:
+  type: article
+  title: "The Quantum Knowledge Protocol: A Self-Discovering Standard"
+  authors:
+    - name: "ENTIENT"
+  year: 2025
+  month: 7
+  day: 31
